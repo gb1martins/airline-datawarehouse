@@ -62,9 +62,6 @@ Principais entidades:
 - Assento
 - Tripulação
 
-Imagem:
-
-![ER Model](images/er-model.png)
 
 ---
 
@@ -83,10 +80,6 @@ Foi desenvolvido um modelo dimensional seguindo a arquitetura Star Schema.
 - Dim_Voo
 - Dim_Aeroporto
 - Dim_Classe
-
-Imagem:
-
-![Star Schema](images/star-schema.png)
 
 ---
 
