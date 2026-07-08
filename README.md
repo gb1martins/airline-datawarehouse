@@ -130,20 +130,20 @@ O projeto utiliza diferentes estratégias de atualização das dimensões.
 
 ```
 
-database/
+bd_transacional/
 create_db.sql
 load_data.sql
 
-datawarehouse/
+bd_analitico/
 create_dw.sql
 
-etl/
+Etl/
 etl_dimensions.sql
 etl_facts.sql
 
-diagrams/
-entity-relationship-model.pdf
-star-schema.pdf
+Modelagem/
+Modelo_entidade_relacionamento.drawio.pdf
+Modelagem_StarSchema.drawio.pdf
 
 ```
 
@@ -153,4 +153,3 @@ star-schema.pdf
 
 Gabriel Augusto Martins
 
-LinkedIn: *(coloque seu LinkedIn)*
